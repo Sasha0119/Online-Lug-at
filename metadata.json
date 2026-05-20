@@ -1,0 +1,6 @@
+{
+  "name": "Online Lug‘at",
+  "description": "Til o‘rganuvchilar uchun zamonaviy interaktiv lug‘at va tarjimon platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
